@@ -1,1 +1,0 @@
-# teste-tecnico-wicomm
