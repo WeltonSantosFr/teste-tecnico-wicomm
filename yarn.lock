@@ -993,6 +993,11 @@ react-refresh@^0.14.0:
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.14.0.tgz#4e02825378a5f227079554d4284889354e5f553e"
   integrity sha512-wViHqhAd8OHeLS/IRMJjTSDHF3U9eWi62F/MledQGPdJGDhodXJ9PBLNGr6WWL7qlH12Mt3TyTpbS+hGXMjCzQ==
 
+react-tailwind@^0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/react-tailwind/-/react-tailwind-0.0.0.tgz#b7fca8794227678b879a35a21b90dd8f65f3af20"
+  integrity sha512-w54Bs/EM3c09q1JfuushNQVeSKu46NfAp3FAtsxtEFR/Aka539tkIZc/0FcqveaX3LiekkM8sMwFMiVtNOHwSA==
+
 react@^18.2.0:
   version "18.2.0"
   resolved "https://registry.yarnpkg.com/react/-/react-18.2.0.tgz#555bd98592883255fa00de14f1151a917b5d77d5"
