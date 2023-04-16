@@ -19,7 +19,11 @@ export default {
       inter: ["Inter", "ui-monospace", "SFMono-Regular"],
       barlow: ["Barlow", "ui-monospace", "SFMono-Regular"],
     },
-    extend: {},
+    extend: {
+      backgroundImage: {
+        "primary-image": "url('/assets/unsplash_FP7cfYPPUKM.png')",
+      },
+    },
   },
   plugins: [],
 };
