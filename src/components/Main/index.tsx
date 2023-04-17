@@ -77,7 +77,7 @@ const Main = () => {
                       <div className="flex flex-col items-center">
                         <div className="bg-background rounded-full w-[180px] h-[180px] flex items-center justify-center relative hover:bg-orange1 transition-colors duration-500 hover:border-[5px] border-[rgba(255,255,255,0.2)]">
                           <img
-                            src="src\assets\image 2.png"
+                            src="src/assets/image 2.png"
                             alt="protein bag"
                             className="object-center w-[110px] relative hover:grow duration-[400ms]"
                           />
