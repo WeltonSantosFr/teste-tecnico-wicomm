@@ -15,7 +15,7 @@ import "pure-react-carousel/dist/react-carousel.es.css";
 
 const Main = () => {
   return (
-    <main className="flex flex-col gap-5">
+    <main className="flex flex-col gap-5 overflow-x-hidden">
       <div className="bg-[url('/src/assets/unsplash_FP7cfYPPUKM.png')] bg-no-repeat bg-center bg-cover w-full h-[550px] flex flex-col justify-center items-center">
         <div className="flex flex-col justify-evenly w-[80%] h-[70%]">
           <h2 className="font-roboto font-bold text-[56px] text-orange1 leading-[65px] italic">
