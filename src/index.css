@@ -10,3 +10,11 @@ button:hover > div {
   -webkit-clip-path: polygon(20% 0%, 100% 0, 100% 100%, 0% 100%);
   clip-path: polygon(0% 0%, 100% 0, 90% 100%, 0% 100%);
 }
+
+.hover\:grow {
+  transform: scale(1);
+}
+
+.transition {
+  transition: transform 0.2s ease-out;
+}

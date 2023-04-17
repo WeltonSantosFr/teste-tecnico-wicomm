@@ -181,14 +181,14 @@ const Footer = () => {
             <input
               type="text"
               placeholder="Digite seu nome"
-              className="w-[270px] h-[50px] bg-dark1 border-[1px] border-dark3 font-barlow font-medium text-[12px] leading-[14px] text-grey2 placeholder:text-center placeholder:ml-[100px] rounded-[4px]"
+              className="w-[270px] h-[50px] bg-dark1 hover:bg-dark3 border-[1px] border-dark3 font-barlow font-medium text-[12px] leading-[14px] text-grey2 placeholder:text-center placeholder:ml-[100px] rounded-[4px]"
             />
             <input
               type="text"
               placeholder="Digite seu e-mail"
-              className="w-[270px] h-[50px] bg-dark1 border-[1px] border-dark3 font-barlow font-medium text-[12px] leading-[14px] text-grey2 placeholder:text-center placeholder:ml-[100px] rounded-[4px]"
+              className="w-[270px] h-[50px] bg-dark1 hover:bg-dark3 border-[1px] border-dark3 font-barlow font-medium text-[12px] leading-[14px] text-grey2 placeholder:text-center placeholder:ml-[100px] rounded-[4px]"
             />
-            <button className="font-barlow font-bold text-[14px] leading-[20px] text-center text-black1 w-[140px] h-[40px] bg-orange1 rounded-[4px]">
+            <button className="font-barlow font-bold text-[14px] leading-[20px] text-center text-black1 w-[140px] h-[40px] bg-orange1 hover:bg-orange2 rounded-[4px]">
               ENVIAR
             </button>
           </div>
