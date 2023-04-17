@@ -933,7 +933,7 @@ const Main = () => {
                       <Slide index={0} className="min-w-[380px] min-h-[380px]">
                         <div className=" w-[380px] h-[380px] flex flex-col justify-between border-[1px] border-dark3 relative hover:grow duration-300 hover:bg-dark3 transition-colors">
                           <img
-                            src="src/assets/unsplash_WvDYdXDzkhs.png"
+                            src="/src/assets/unsplash_WvDYdXDzkhs.png"
                             alt="member1"
                             className="object-center relative hover:grow"
                           />
