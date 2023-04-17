@@ -224,7 +224,7 @@ const Main = () => {
                       <div className="border-[1px] border-background rounded-[4px] w-[280px] h-[350px] flex flex-col justify-evenly items-center">
                         <div className="flex flex-row w-full justify-center">
                           <img
-                            src="src\assets\image 1.png"
+                            src="src/assets/image 1.png"
                             alt="suplemento"
                             className="w-[165px] h-[165px]"
                           />
@@ -523,7 +523,7 @@ const Main = () => {
                       className="h-full flex lg:gap-[20px] md:gap-6 gap-14 items-center justify-center transition ease-out duration-700"
                     >
                       <Slide index={0} className="w-[280px] h-[300px] relative">
-                        <img src="src\assets\Rectangle 38.png" alt="member1" />
+                        <img src="src/assets/Rectangle 38.png" alt="member1" />
                         <div className="absolute inset-0 opacity-0 hover:opacity-100 transition ease-linear duration-500 hover:flex flex-col justify-end items-center">
                           <div className="bg-[rgba(58,58,60,0.9)] w-full h-[35%] flex flex-col items center justify-evenly">
                             <p className="font-roboto font-bold italic text-[16px] leading-[20px] text-orange1 ml-[20px]">
@@ -933,7 +933,7 @@ const Main = () => {
                       <Slide index={0} className="min-w-[380px] min-h-[380px]">
                         <div className=" w-[380px] h-[380px] flex flex-col justify-between border-[1px] border-dark3 relative hover:grow duration-300 hover:bg-dark3 transition-colors">
                           <img
-                            src="src\assets\unsplash_WvDYdXDzkhs.png"
+                            src="src/assets/unsplash_WvDYdXDzkhs.png"
                             alt="member1"
                             className="object-center relative hover:grow"
                           />
